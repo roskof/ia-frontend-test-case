@@ -65,6 +65,8 @@ Technologies
 
 * Tailwind
 
+* Vitest and React Testing Library
+
 
 License
 -------
